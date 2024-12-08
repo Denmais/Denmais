@@ -1,16 +1,31 @@
-## Hi there 👋
+## Привет! Меня зовут Денис👋
 
-<!--
-**Denmais/Denmais** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Полное имя - Малич Денис Сергеевич
+Контактные данные - https://t.me/Denmais09
+Должность - junior python developer
 
-Here are some ideas to get you started:
+Учусь в магистратуре ВШЭ на факультете компьютерных наук (Департамент больших данных и информационного поиска). Изучаю и занимаюсь инженерией данных. Всегда стараюсь улучшить свои навыки программирования (решаю контесты по программированию, изучаю различные курсы). Люблю работать в команде, учиться новому у коллег. Всегда выкладываюсь на максимум!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🛠 Технический стек
+*   Python/Scala/Go languages
+*   MySQL, PostgreSQL, MongoDB, ClickHouse, Redis, RabbitMQ
+*   Django, DRF, FastAPI, Aiogram, Docker, Spark, Airflow
+*   GitHub/GitLab
+
+## 👨‍💻 Опыт работы
+* Junior python develoer, Systeme electric, 1 год
+Разработка веб-приложения для структурирования технической документации
+Python, openpyxl, DRF, Django, Postgresql
+
+Разработка чат-ботов для общения с клиентами и поддержкой обратной связи
+Python, aiogram, DRF, Postgresql, RabbitMQ
+
+
+## Мои проекты
+
+*   [Python Funtech](https://github.com/Denmais/Funtech) - Проект является MVP Backend-приложения для IT мероприятий.
+
+* [Python FastAPI](https://github.com/Denmais/FastAPI_Messenger/tree/new) - Проект Backend-приложения для чата
+
+* [Golang yandex project](https://github.com/Denmais/go_final_project/tree/new) - финальный проект яндекс практикума по стеку Golang-разработчика
