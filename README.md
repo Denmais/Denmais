@@ -27,7 +27,7 @@ Python, aiogram, DRF, Postgresql, RabbitMQ
 Разработка ETL процессов для обработки документации
 Python, Airflow, openpyxl, pandas
 
-## Мои проекты
+## Мои открытые проекты
 
 * [Python Funtech](https://github.com/Denmais/Funtech) - Проект является MVP Backend-приложения для IT мероприятий.
 
