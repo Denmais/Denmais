@@ -30,7 +30,7 @@ Python, Airflow, openpyxl, pandas
 
 * [Python Funtech](https://github.com/Denmais/Funtech) - Проект является MVP Backend-приложения для IT мероприятий.
 
-* [Spark airflow project](https://git@github.com:Denmais/Airflow_and_spark.git) - микро проект по использованию аирфлоу в связке со спарк
+* [Spark airflow project](https://git@github.com:Denmais/Airflow_and_spark) - микро проект по использованию аирфлоу в связке со спарк
 
 * [Python FastAPI](https://github.com/Denmais/FastAPI_Messenger/tree/new) - Проект Backend-приложения для чата
 
