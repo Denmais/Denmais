@@ -12,21 +12,25 @@
 ## 🛠 Технический стек
 *   Python/Scala/Go languages
 *   MySQL, PostgreSQL, MongoDB, ClickHouse, Redis, RabbitMQ
-*   Django, DRF, FastAPI, Aiogram, Docker, Spark, Airflow
-*   GitHub/GitLab
+*   Django, DRF, FastAPI, Aiogram, Spark, Airflow,  
+*   GitHub/GitLab, Docker
 
 ## 👨‍💻 Опыт работы
 * Junior python develoer, Systeme electric, 1 год
 Разработка веб-приложения для структурирования технической документации
-Python, openpyxl, DRF, Django, Postgresql
+Python, openpyxl, DRF, Django, Postgresql, MongoDB
 
 Разработка чат-ботов для общения с клиентами и поддержкой обратной связи
 Python, aiogram, DRF, Postgresql, RabbitMQ
 
+Разработка ETL процессов для обработки документации
+Python, Airflow, openpyxl, pandas
 
 ## Мои проекты
 
-*   [Python Funtech](https://github.com/Denmais/Funtech) - Проект является MVP Backend-приложения для IT мероприятий.
+* [Python Funtech](https://github.com/Denmais/Funtech) - Проект является MVP Backend-приложения для IT мероприятий.
+
+* [Spark airflow project](https://git@github.com:Denmais/Airflow_and_spark.git) - микро проект по использованию аирфлоу в связке со спарк
 
 * [Python FastAPI](https://github.com/Denmais/FastAPI_Messenger/tree/new) - Проект Backend-приложения для чата
 
